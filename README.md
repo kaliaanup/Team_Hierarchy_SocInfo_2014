@@ -2,6 +2,7 @@
 
 Please cite us
 
+```
 @inproceedings{Kalia+2014+SocInfo,
   author    = {Anup K. Kalia and Norbou Buchler and  Diane Ungvarsky and  Ramesh Govindan and Munindar P. Singh},
   title     = {Determining Team Hierarchy from Broadcast Communications},
@@ -14,3 +15,4 @@ Please cite us
   address = {Barcelona, Spain}
 }
 
+```
